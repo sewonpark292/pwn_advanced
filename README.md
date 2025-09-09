@@ -1,2 +1,2 @@
 # pwn_advanced
-advanced pwnable tech
+Advanced pwnable tech
